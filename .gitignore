@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Environment variables
+.env
+*/.env
+
+# Database files
+*.db
+backend/*.db
+
+# Logs
+*.log
+frontend.log
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Session files
+sessions.db
+.vercel
+
+.env.*
+!.env.example
+*.db-*
+*.sqlite*

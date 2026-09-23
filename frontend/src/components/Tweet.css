@@ -1,0 +1,99 @@
+.tweet {
+  padding: 16px 20px;
+  border-bottom: 1px solid #2f3336;
+  transition: background-color 0.2s;
+}
+
+.tweet:hover {
+  background-color: #0a0a0a;
+}
+
+.tweet-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #1d9bf0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 12px;
+  font-size: 24px;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.username {
+  font-weight: 700;
+  color: #fff;
+}
+
+.handle {
+  color: #71767b;
+  font-size: 14px;
+}
+
+.tweet-content {
+  font-size: 15px;
+  line-height: 1.5;
+  margin-bottom: 12px;
+  word-wrap: break-word;
+}
+
+.tweet-actions {
+  display: flex;
+  justify-content: space-between;
+  max-width: 425px;
+}
+
+.action-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: #71767b;
+  font-size: 14px;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: all 0.2s;
+}
+
+.action-btn:hover {
+  color: #1d9bf0;
+  background: #1d9bf01a;
+}
+
+.action-btn.liked {
+  color: #f4212e;
+}
+
+.action-btn.liked:hover {
+  color: #f4212e;
+  background: #f4212e1a;
+}
+
+.action-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.icon {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+
+.icon-heart-filled {
+  fill: #f4212e;
+}

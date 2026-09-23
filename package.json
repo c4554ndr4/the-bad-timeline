@@ -1,0 +1,39 @@
+{
+  "name": "the-bad-timeline",
+  "version": "1.0.0",
+  "description": "A research demonstration of cognitive insecurity through a personalized AI-generated social feed.",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
+    "start": "npm start --prefix backend",
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c4554ndr4/the-bad-timeline.git"
+  },
+  "keywords": [
+    "ai",
+    "human-ai-interaction",
+    "cognitive-insecurity",
+    "personalization",
+    "research"
+  ],
+  "author": "Cassandra Melax",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^17.2.1",
+    "groq-sdk": "^0.29.0",
+    "js-yaml": "^4.1.0",
+    "stripe": "^12.0.0"
+  }
+}

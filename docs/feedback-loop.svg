@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="1640" viewBox="0 0 1040 1640" role="img" aria-labelledby="title desc">
+<title id="title">How a like changes The Bad Timeline</title>
+<desc id="desc">A person who prefers science and space likes two fictional humorous tweets. On the next generation request, the backend adds their text under Tweets the user has liked. Before and after prompt excerpts show that addition, while the stated preference and operator instructions remain. Groq generates a new batch with similar themes and style, displayed as posts from fictional authors. More reading and likes provide context for a later batch. Examples are illustrative, not an actual model run.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#317FB0"/></marker></defs>
+<rect width="1040" height="1640" fill="#F8F6F1"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#192F3B">
+<text x="56" y="42" font-size="18" font-weight="700" fill="#5D6D75" text-anchor="start">
+<tspan x="56" dy="0">THE BAD TIMELINE</tspan>
+</text>
+<text x="56" y="93" font-size="43" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="56" dy="0">How a like changes the timeline</tspan>
+</text>
+<text x="56" y="131" font-size="24" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="56" dy="0">A reader’s feedback becomes context for the next batch.</tspan>
+</text>
+<circle cx="74" cy="187" r="19" fill="#192F3B"/>
+<text x="74" y="194" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+<tspan x="74" dy="0">1</tspan>
+</text>
+<text x="108" y="196" font-size="29" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="108" dy="0">A person likes a few tweets</tspan>
+</text>
+<circle cx="144" cy="283" r="36" fill="#E9C4A2" stroke="#192F3B" stroke-width="3"/>
+<path d="M 110 274 C 103 232 161 228 177 265 C 156 257 136 261 110 274" fill="#192F3B" stroke="#192F3B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 94 395 L 98 350 Q 102 326 127 324 L 154 324 Q 182 328 186 354 L 190 395" fill="#BCD9E8" stroke="#192F3B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 111 356 L 124 381 L 173 354" fill="none" stroke="#192F3B" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="167" y="318" width="35" height="64" rx="6" fill="#192F3B"/>
+<rect x="172" y="324" width="25" height="46" rx="3" fill="#D8EBF4"/>
+<path transform="translate(174 334) scale(1.1)" d="M 12 21 C 9 18 1 12 1 7 C 1 1 8 -1 12 5 C 16 -1 23 1 23 7 C 23 12 15 18 12 21 Z" fill="#BD496D" stroke="#BD496D" stroke-width="1.8"/>
+<text x="144" y="430" font-size="21" font-weight="600" fill="#5D6D75" text-anchor="middle">
+<tspan x="144" dy="0">The reader</tspan>
+</text>
+<rect x="260" y="225" width="350" height="224" rx="15" fill="#FFFFFF" stroke="#D8DFE0" stroke-width="1.5"/>
+<circle cx="295" cy="259" r="14" fill="#B4CBDA"/>
+<text x="320" y="266" font-size="18" font-weight="600" fill="#5D6D75" text-anchor="start">
+<tspan x="320" dy="0">@orbital_notes</tspan>
+</text>
+<text x="284" y="312" font-size="25" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="284" dy="0">Space is huge.</tspan>
+<tspan x="284" dy="32">My inbox is bigger.</tspan>
+</text>
+<path d="M 284 400 H 586" fill="none" stroke="#D8DFE0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path transform="translate(284 414) scale(1.1)" d="M 12 21 C 9 18 1 12 1 7 C 1 1 8 -1 12 5 C 16 -1 23 1 23 7 C 23 12 15 18 12 21 Z" fill="#BD496D" stroke="#BD496D" stroke-width="1.8"/>
+<text x="322" y="434" font-size="18" font-weight="600" fill="#BD496D" text-anchor="start">
+<tspan x="322" dy="0">Liked</tspan>
+</text>
+<rect x="632" y="225" width="350" height="224" rx="15" fill="#FFFFFF" stroke="#D8DFE0" stroke-width="1.5"/>
+<circle cx="667" cy="259" r="14" fill="#D9C4DE"/>
+<text x="692" y="266" font-size="18" font-weight="600" fill="#5D6D75" text-anchor="start">
+<tspan x="692" dy="0">@mars_diary</tspan>
+</text>
+<text x="656" y="312" font-size="25" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="656" dy="0">Mars has zero</tspan>
+<tspan x="656" dy="32">meetings.</tspan>
+</text>
+<path d="M 656 400 H 958" fill="none" stroke="#D8DFE0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path transform="translate(656 414) scale(1.1)" d="M 12 21 C 9 18 1 12 1 7 C 1 1 8 -1 12 5 C 16 -1 23 1 23 7 C 23 12 15 18 12 21 Z" fill="#BD496D" stroke="#BD496D" stroke-width="1.8"/>
+<text x="694" y="434" font-size="18" font-weight="600" fill="#BD496D" text-anchor="start">
+<tspan x="694" dy="0">Liked</tspan>
+</text>
+<path d="M 621 461 V 487" fill="none" stroke="#317FB0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<text x="621" y="520" font-size="21" font-weight="600" fill="#5D6D75" text-anchor="middle">
+<tspan x="621" dy="0">On the next generation request</tspan>
+</text>
+<circle cx="74" cy="568" r="19" fill="#192F3B"/>
+<text x="74" y="575" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+<tspan x="74" dy="0">2</tspan>
+</text>
+<text x="108" y="577" font-size="29" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="108" dy="0">The backend adds those likes to the prompt</tspan>
+</text>
+<rect x="56" y="604" width="928" height="73" rx="12" fill="#EDE8F1"/>
+<text x="78" y="632" font-size="19" font-weight="700" fill="#655175" text-anchor="start">
+<tspan x="78" dy="0">Operator instruction in both prompts (abridged)</tspan>
+</text>
+<text x="78" y="660" font-size="22" font-weight="400" fill="#473A56" text-anchor="start">
+<tspan x="78" dy="0">Keep the reader engaged; subtly encourage good epistemics.</tspan>
+</text>
+<rect x="56" y="697" width="444" height="393" rx="15" fill="#F0F1EF" stroke="#D8DFE0" stroke-width="1.5"/>
+<text x="80" y="734" font-size="19" font-weight="700" fill="#5D6D75" text-anchor="start">
+<tspan x="80" dy="0">BEFORE THE LIKES</tspan>
+</text>
+<text x="80" y="779" font-size="21" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="80" dy="0">User preferences:</tspan>
+</text>
+<text x="80" y="810" font-size="24" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="80" dy="0">Science and space.</tspan>
+</text>
+<text x="80" y="1030" font-size="20" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="80" dy="0">Recent tweets to diversify from:</tspan>
+</text>
+<text x="80" y="1062" font-size="23" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="80" dy="0">[recent posts…]</tspan>
+</text>
+<rect x="540" y="697" width="444" height="393" rx="15" fill="#E8F1F7" stroke="#D8DFE0" stroke-width="1.5"/>
+<text x="564" y="734" font-size="19" font-weight="700" fill="#5D6D75" text-anchor="start">
+<tspan x="564" dy="0">AFTER THE LIKES</tspan>
+</text>
+<text x="564" y="779" font-size="21" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="564" dy="0">User preferences:</tspan>
+</text>
+<text x="564" y="810" font-size="24" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="564" dy="0">Science and space.</tspan>
+</text>
+<text x="564" y="1030" font-size="20" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="564" dy="0">Recent tweets to diversify from:</tspan>
+</text>
+<text x="564" y="1062" font-size="23" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="564" dy="0">[recent posts…]</tspan>
+</text>
+<text x="80" y="895" font-size="22" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="80" dy="0">No liked-post examples</tspan>
+<tspan x="80" dy="31">have been added yet.</tspan>
+</text>
+<rect x="557" y="833" width="410" height="163" rx="10" fill="#D0E7F6"/>
+<text x="580" y="864" font-size="21" font-weight="700" fill="#20567A" text-anchor="start">
+<tspan x="580" dy="0">Tweets the user has liked:</tspan>
+</text>
+<text x="580" y="900" font-size="23" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="580" dy="0">“Space is huge. My inbox</tspan>
+<tspan x="580" dy="30">is bigger.”</tspan>
+<tspan x="580" dy="30">“Mars has zero meetings.”</tspan>
+</text>
+<rect x="56" y="1107" width="928" height="50" rx="10" fill="#FFFFFF" stroke="#D8DFE0" stroke-width="1.5"/>
+<text x="80" y="1139" font-size="23" font-weight="600" fill="#192F3B" text-anchor="start">
+<tspan x="80" dy="0">Batch request (abridged): Generate 10 tweets.</tspan>
+</text>
+<path d="M 521 1170 V 1195" fill="none" stroke="#317FB0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<circle cx="74" cy="1237" r="19" fill="#192F3B"/>
+<text x="74" y="1244" font-size="20" font-weight="700" fill="#FFFFFF" text-anchor="middle">
+<tspan x="74" dy="0">3</tspan>
+</text>
+<text x="108" y="1246" font-size="29" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="108" dy="0">Groq generates the next batch</tspan>
+</text>
+<rect x="56" y="1273" width="444" height="224" rx="15" fill="#FFFFFF" stroke="#D8DFE0" stroke-width="1.5"/>
+<circle cx="91" cy="1307" r="14" fill="#C5DCCB"/>
+<text x="116" y="1314" font-size="18" font-weight="600" fill="#5D6D75" text-anchor="start">
+<tspan x="116" dy="0">@cosmic_calendar</tspan>
+</text>
+<text x="80" y="1360" font-size="25" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="80" dy="0">The universe is expanding.</tspan>
+<tspan x="80" dy="32">So is my to-do list.</tspan>
+</text>
+<path d="M 80 1448 H 476" fill="none" stroke="#D8DFE0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path transform="translate(80 1462) scale(1.1)" d="M 12 21 C 9 18 1 12 1 7 C 1 1 8 -1 12 5 C 16 -1 23 1 23 7 C 23 12 15 18 12 21 Z" fill="none" stroke="#5D6D75" stroke-width="1.8"/>
+<text x="118" y="1482" font-size="18" font-weight="600" fill="#34755E" text-anchor="start">
+<tspan x="118" dy="0">New post</tspan>
+</text>
+<rect x="540" y="1273" width="444" height="224" rx="15" fill="#FFFFFF" stroke="#D8DFE0" stroke-width="1.5"/>
+<circle cx="575" cy="1307" r="14" fill="#DBCDAF"/>
+<text x="600" y="1314" font-size="18" font-weight="600" fill="#5D6D75" text-anchor="start">
+<tspan x="600" dy="0">@quiet_observatory</tspan>
+</text>
+<text x="564" y="1360" font-size="25" font-weight="400" fill="#192F3B" text-anchor="start">
+<tspan x="564" dy="0">Found a planet with no email.</tspan>
+<tspan x="564" dy="32">Calling it a breakthrough.</tspan>
+</text>
+<path d="M 564 1448 H 960" fill="none" stroke="#D8DFE0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<path transform="translate(564 1462) scale(1.1)" d="M 12 21 C 9 18 1 12 1 7 C 1 1 8 -1 12 5 C 16 -1 23 1 23 7 C 23 12 15 18 12 21 Z" fill="none" stroke="#5D6D75" stroke-width="1.8"/>
+<text x="602" y="1482" font-size="18" font-weight="600" fill="#34755E" text-anchor="start">
+<tspan x="602" dy="0">New post</tspan>
+</text>
+<text x="56" y="1535" font-size="23" font-weight="700" fill="#192F3B" text-anchor="start">
+<tspan x="56" dy="0">Different names. One generation process.</tspan>
+</text>
+<text x="56" y="1569" font-size="22" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="56" dy="0">The reader keeps scrolling; later likes can shape a later batch.</tspan>
+</text>
+<text x="56" y="1610" font-size="18" font-weight="400" fill="#5D6D75" text-anchor="start">
+<tspan x="56" dy="0">Illustrative tweets · abbreviated prompts · not a recorded model run</tspan>
+</text>
+</g></svg>

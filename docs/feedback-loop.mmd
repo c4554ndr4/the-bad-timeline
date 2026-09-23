@@ -1,0 +1,17 @@
+flowchart TB
+    R["Reader<br/>Scrolls through a familiar social feed"] --> F["Feedback<br/>Likes and written preferences"]
+    F --> C["Context for the next batch<br/>Preferences · liked posts · recent feed history"]
+    O["Operator instructions<br/>Editorial objective and variety"] --> P
+    C --> P["Prompt assembly<br/>Combine user signals with system goals"]
+    P --> G["Groq inference<br/>Kimi-K2 in the original demonstration"]
+    G --> B["Generated batch<br/>Short posts and synthetic author names"]
+    B --> T["Timeline<br/>Append posts; request more near the end"]
+    T --> R
+    classDef person fill:#f4f1eb,stroke:#a19580,color:#332f28;
+    classDef context fill:#e7eef4,stroke:#638099,color:#243e54;
+    classDef generation fill:#e6efe8,stroke:#64836e,color:#254231;
+    classDef objective fill:#eee8f2,stroke:#897497,color:#493953;
+    class R,F,T person;
+    class C,P context;
+    class G,B generation;
+    class O objective;
